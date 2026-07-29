@@ -1,7 +1,7 @@
 /**
  * Operador !
  *
- * 1. Modifica el valor de la variable "nombre" para que se muestre por consola el mensaje "Tú NO eres Alex..."
+ * 1. Modifica el valor de la variable "nombre" para que se muestre por consola el mensaje "Tú NO eres Alex..."      
  */
 
 let nombre = "Ale";

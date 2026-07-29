@@ -2,7 +2,7 @@
  * 1. Ejecuta node ex4.js y comprueba cuantos mensajes se muestra por pantalla
  * 2. Asigna un valor adecuado a la variable "número" para que, por consola, se muestra tan solo "BUP!BUP!"
  */
-
+/* vuelvo a modificar el numero*/
 let numero = 0; /** Solamente puedes modificar esta línea */
 
 /** ¡PROHIBIDO MODIFICAR A PARTIR DE AQUÍ! */

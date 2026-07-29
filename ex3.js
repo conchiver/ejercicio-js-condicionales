@@ -4,7 +4,7 @@
 3. BONUS: ¿Cual es el valón mínimo entero que resuelve este ejercicio?
 */
 
-let numero = 501;
+let numero = 502;
 
 if (numero > 0) {
   console.log("El número es mayor de 0.");
